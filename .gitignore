@@ -1,0 +1,11 @@
+# Runtime learner data: never publish by default.
+/data/
+
+# Local editor and operating-system files.
+.obsidian/
+.DS_Store
+
+# Local credentials and logs, if added during use.
+.env
+.env.*
+*.log
